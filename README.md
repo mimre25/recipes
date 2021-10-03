@@ -14,3 +14,8 @@ It's just a list of recipes - do whatever you want with it.
 ## General note on ingredients
 I only list the measurements of the main ingredients as seasoning is something that everyone should do to taste.
 Further, stuff like oil for sauteeing is something highly dependent on the pan used, so I won't list that either - I usually use olive oil.
+
+## Recipes
+
+- [Chili Sin Carne](./chili/recipe.md)
+- [Couscous Bean Tofu Scramble](./coucous_beans_tofu_scramble/recipe.md)
