@@ -19,3 +19,4 @@ Further, stuff like oil for sauteeing is something highly dependent on the pan u
 
 - [Chili Sin Carne](./chili/recipe.md)
 - [Couscous Bean Tofu Scramble](./coucous_beans_tofu_scramble/recipe.md)
+- [Lentil Veggie Soup with Tofu Croutons](./lentil_veggie_soup/recipe.md)
